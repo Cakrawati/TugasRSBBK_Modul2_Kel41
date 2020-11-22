@@ -1,6 +1,6 @@
 import React, {} from 'react';
 import Cardinfo from '../Cardinfo/Cardinfo';
-import Heading from '../Heading.jsx/Heading';
+import Heading from '../Heading/Heading';
 
 export default function Home(){
     return(
